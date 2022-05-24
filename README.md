@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+- 1 qadam:
+  Navbar qismini qildik.
+- 2 qadam:
+  Home Page qilamiz.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,3 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# KinoHD-ReactJS-OMDbAPI
